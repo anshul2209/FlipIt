@@ -47,7 +47,7 @@ const gotTabs = (tabs) => {
     } else {
       console.log("Fetching Latest Rates...");
       fetch(
-        "https://free.currconv.com/api/v7/convert?q=USD_INR&compact=ultra&apiKey=e2eb555cc0da1abe2915"
+        "https://free.currconv.com/api/v7/convert?q=USD_INR&compact=ultra&apiKey=<CURRENCY_API_KEY>"
       )
         .then((response) => response.json())
         .then((data) => {
