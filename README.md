@@ -1,4 +1,6 @@
 # FlipIt
+You can download the extension from the web store here ➡️  https://chrome.google.com/webstore/detail/flip-it/dadkdmfjmekeiacfmnlkngfojdhepohc
+
 ![](https://s7.gifyu.com/images/Chrome_Extension_to_flip_prices_in_USD_to_INR_on_www.amazon.com_store.gif)
 
 https://www.youtube.com/watch?v=r3zKp9A058Q
